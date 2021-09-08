@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "==3.12.4"
 pyjwt = "*"
 drf-yasg = "*"
+django-heroku = "*"
+gunicorn = "*"
 
 [dev-packages]
 
